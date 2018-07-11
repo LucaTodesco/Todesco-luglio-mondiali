@@ -1,0 +1,22 @@
+{
+  "name": "todesco-luglio-mondiali",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucaTodesco/Todesco-luglio-mondiali.git"
+  },
+  "author": "Luca Todesco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucaTodesco/Todesco-luglio-mondiali/issues"
+  },
+  "homepage": "https://github.com/LucaTodesco/Todesco-luglio-mondiali#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
