@@ -35,3 +35,5 @@ function team() {
 
 export.match = match;
 export.team = team;
+export.teams = teams;
+export matches = matches;
